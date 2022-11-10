@@ -1,0 +1,57 @@
+{
+    "basics": {
+      "name": "Gokul R",
+      "email": "rgokulravichandran@gmail.com",
+      "phone": "(+91) 70922-51617",
+      "degree": "BE-ECE",
+      "career objective": "To work efficiently and effectively in an organization and constantly improve my technical skills through continuous learning.",
+      "location": {
+        "address": "no-1, prema compound, second street",
+        "postalCode": "641-604",
+        "city": "tiruppur",
+        "region": "tamil nadu"
+      }
+    },
+    "work": [
+      {
+        "company": "dell",
+        "position": "isp",
+        "website": "https://www.dell.com/en-in?c=in&l=en&s=gen&mp=dell.co.in/&redirect=1",
+        "startDate": "2020",
+        "endDate": "2021",
+        "summary": "working as an store manager at tiruppur branch"
+      }
+    ],
+    "education": [
+      {
+        "institution": "jay shreeram engineering college",
+        "area": "avinashipalayam, tiruppur",
+        "studyType": "daily",
+        "startDate": "2014",
+        "endDate": "2019",
+        "gpa": "6.8"
+      }
+    ],
+    "publications": [
+      {
+        "name": "green electronics",
+        "publisher": "hackathon",
+        "releaseDate": "31.01.2017",
+        "summary": "manufacturing of electrical components using leaves sheet"      
+      }
+    ],
+    "languages": [
+      {
+        "language": ["tamil", "english"],
+        "fluency":"moderate"
+      }
+    ],
+    "interests": [
+      {
+        "name": ["coding","videogames"],
+        "keywords": [
+          "baseketball", "pc games", "workouts"
+        ]
+      }
+    ]
+  }
